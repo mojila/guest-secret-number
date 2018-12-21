@@ -1,0 +1,8 @@
+[package]
+name = "processing-guest"
+version = "0.1.0"
+authors = ["LAB-INNOVATION"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.1"
